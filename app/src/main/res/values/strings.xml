@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Star Wars Wiki</string>
+    <string name="name">Nome:</string>
+    <string name="height">Altura:</string>
+    <string name="mass">Peso:</string>
+    <string name="skin">Pele:</string>
+    <string name="eyes">Olhos:</string>
+    <string name="dados_n_o_encontrados">Dados não encontrados :/</string>
+</resources>
